@@ -1,0 +1,12 @@
+.submit {
+  background-color: #34ac9c;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+.submit:hover {
+  background-color: #34ac9c;
+}

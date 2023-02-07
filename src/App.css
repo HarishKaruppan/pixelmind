@@ -1,0 +1,26 @@
+/* global color  */
+
+:root {
+  --primary: #a6ffff;
+  --secondary: #009985;
+  --black: rgb(32, 32, 32);
+  --bg_color: #0d2436;
+  --font_color: #ffffff;
+  --font_color_hover: #cccccc;
+  --card_bg: silver;
+  --black2: black;
+}
+
+/* global button  */
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #0d2436;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+/* App */
+.App {
+  margin: 16px 150px;
+}

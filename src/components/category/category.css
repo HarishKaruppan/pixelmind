@@ -1,0 +1,8 @@
+.categories h1 {
+  font-size: 16px;
+  height: 20px;
+  background-color: gray;
+  color: white;
+  line-height: 20px;
+  padding: 5px 7px;
+}
