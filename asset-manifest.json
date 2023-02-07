@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pixelmind/static/css/main.cbd304a6.chunk.css",
+    "main.js": "/pixelmind/static/js/main.61ad85c6.chunk.js",
+    "main.js.map": "/pixelmind/static/js/main.61ad85c6.chunk.js.map",
+    "runtime-main.js": "/pixelmind/static/js/runtime-main.292fefe9.js",
+    "runtime-main.js.map": "/pixelmind/static/js/runtime-main.292fefe9.js.map",
+    "static/js/2.8cc67119.chunk.js": "/pixelmind/static/js/2.8cc67119.chunk.js",
+    "static/js/2.8cc67119.chunk.js.map": "/pixelmind/static/js/2.8cc67119.chunk.js.map",
+    "index.html": "/pixelmind/index.html",
+    "static/css/main.cbd304a6.chunk.css.map": "/pixelmind/static/css/main.cbd304a6.chunk.css.map",
+    "static/js/2.8cc67119.chunk.js.LICENSE.txt": "/pixelmind/static/js/2.8cc67119.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292fefe9.js",
+    "static/js/2.8cc67119.chunk.js",
+    "static/css/main.cbd304a6.chunk.css",
+    "static/js/main.61ad85c6.chunk.js"
+  ]
+}
